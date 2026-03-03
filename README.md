@@ -5,21 +5,21 @@
 </head>
 <body>
 
-       <center
+<center
         
-        <p>Pagi hari yang cerah, Nina duduk diam di tempat tidurnya.
+<p>Pagi hari yang cerah, Nina duduk diam di tempat tidurnya.
             Hari itu ia harus pergi ke sekolah..</p>
         <p> Namun, ada satu hal yang membuatnya gelisah.
             Tugas sekolahnya belum selesai.</p>
-        <p> Nina merasa takut dan khawatir. Ia membayangkan akan dimarahi oleh Bu Guru..</p>
+        <p> Nina merasa takut dan khawatir. Ia membayangkan akan dimarahi oleh Bu Guru.</p>
    
-           <img src="gambar01.jpeg" width="500">
-           <h2>1</h2>
+<img src="gambar01.jpeg" width="500">
+<h2>1</h2>
 
-        <br>
-        <a href="halaman2.html">berikutnya ➜</a>
+ <br>
+   <a href="halaman2.html">berikutnya ➜</a>
 
-      </center>
+ </center>
 
 </body>
 </html>
@@ -30,10 +30,10 @@
 </head>
 <body>
 
-       <center
+<center
 
      
-        <p>Dengan wajah cemas, Nina berkata kepada Ibu,
+<p>Dengan wajah cemas, Nina berkata kepada Ibu,
 “Aku takut dimarahi Bu Guru karena tugasku belum selesai.”</P>
          <P>Ibu tersenyum lembut lalu berkata,
 “Kalau kita jujur dan mau memperbaiki kesalahan, Bu Guru pasti akan mengerti.”</p>
@@ -57,10 +57,10 @@
 </head>
 <body>
 
-       <center
+<center
 
           
-        <p>Sesampainya di sekolah, Nina mencoba menenangkan hatinya.
+<p>Sesampainya di sekolah, Nina mencoba menenangkan hatinya.
 Ia pun memberanikan diri berbicara kepada Bu Guru.</p>
 <p>“Bu, maaf, tugas saya belum selesai,” kata Nina dengan jujur.</p>
 <p>Ternyata, Bu Guru tidak marah.
@@ -84,11 +84,8 @@ Bu Guru malah tersenyum dan memberi Nina waktu untuk menyelesaikan tugasnya.</p>
 </head>
 <body>
 
-       <center
-
-      
-          
-        <p>Nina merasa sangat lega dan senang.
+  <center>   
+<p>Nina merasa sangat lega dan senang.
 Ia belajar bahwa berkata jujur dan berani mengakui kesalahan itu penting.</P>
 <p>Sejak hari itu, Nina menjadi lebih rajin dan tidak takut lagi pergi ke sekolah karena tidak mengerjakan tugas.</p>
 <p>Ia tahu, kejujuran selalu membawa kebaikan.</p>
@@ -111,7 +108,7 @@ Ia belajar bahwa berkata jujur dan berani mengakui kesalahan itu penting.</P>
 </head>
 <body>
 
-       <center
+<center
 <p> Soal</p>
       <p>1. Siapa nama tokoh utama dalam cerita ini?
 Jawaban: _________</p>
